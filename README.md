@@ -1,5 +1,5 @@
 # Secrets Sharing
-Manning liveProject "(Build a Secrets Sharing Web Application)[https://www.manning.com/liveproject/build-a-secrets-sharing-web-application]" 
+Manning liveProject "[Build a Secrets Sharing Web Application](https://www.manning.com/liveproject/build-a-secrets-sharing-web-application)" 
 
     Milestone 1: you will implement a web application that allow creating a new secret and viewing the secret. Once viewed, a secret should not be viewable again. You will use a file to store the secrets. You will verify the behavior by manually making HTTP requests using a program such as curl.
 
